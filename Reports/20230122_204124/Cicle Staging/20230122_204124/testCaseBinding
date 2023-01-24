@@ -1,0 +1,17 @@
+{"testCaseName":"Test Cases/Company/Company - Create","testCaseId":"Test Cases/Company/Company - Create","iterationVariableName":""}
+{"testCaseName":"Test Cases/Company/Company - Update Information","testCaseId":"Test Cases/Company/Company - Update Information","iterationVariableName":""}
+{"testCaseName":"Test Cases/Team/Team - Create","testCaseId":"Test Cases/Team/Team - Create","iterationVariableName":""}
+{"testCaseName":"Test Cases/Team/Team - Update Information","testCaseId":"Test Cases/Team/Team - Update Information","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/List/List - Add New","testCaseId":"Test Cases/Board/List/List - Add New","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/Card/Card - Add New","testCaseId":"Test Cases/Board/Card/Card - Add New","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/Card/Card - Add Attachment","testCaseId":"Test Cases/Board/Card/Card - Add Attachment","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/Card/Card - Delete Attachment","testCaseId":"Test Cases/Board/Card/Card - Delete Attachment","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/Card/Card - Add Comment","testCaseId":"Test Cases/Board/Card/Card - Add Comment","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/Card/Card - Delete Comment","testCaseId":"Test Cases/Board/Card/Card - Delete Comment","iterationVariableName":""}
+{"testCaseName":"Test Cases/Board/List/List - Archive","testCaseId":"Test Cases/Board/List/List - Archive","iterationVariableName":""}
+{"testCaseName":"Test Cases/Team/Team - Archive","testCaseId":"Test Cases/Team/Team - Archive","iterationVariableName":""}
+{"testCaseName":"Test Cases/Negative/Team - Create (Negative)","testCaseId":"Test Cases/Negative/Team - Create (Negative)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Negative/List - Add New (Negative)","testCaseId":"Test Cases/Negative/List - Add New (Negative)","iterationVariableName":""}
+{"testCaseName":"Test Cases/Negative/Card - Add New (Negative) - 1","testCaseId":"Test Cases/Negative/Card - Add New (Negative) - 1","iterationVariableName":""}
+{"testCaseName":"Test Cases/Negative/Card - Add New (Negative) - 2","testCaseId":"Test Cases/Negative/Card - Add New (Negative) - 2","iterationVariableName":""}
+{"testCaseName":"Test Cases/Company/Company - Delete","testCaseId":"Test Cases/Company/Company - Delete","iterationVariableName":""}

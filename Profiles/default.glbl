@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://stagingapi.cicle.app/'</initValue>
+      <name>baseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jwt eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImRlZmF1bHRDb21wYW55IjpudWxsLCJfaWQiOiI2M2FjZWM4YzY3MDYyYTkzMzJjYTMzMjMiLCJnb29nbGVJZCI6IjEwMDM5MjUxMjE4NjA5MTA1NDA2NiIsImVtYWlsIjoidGVzdGluZy5hbmlzMDFAZ21haWwuY29tIiwiZnVsbE5hbWUiOiJUZXN0aW5nIEFuaXMgMDEgLSB1cGQiLCJwaG90b1VybCI6Imh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9zdGFnaW5nLWNpY2xlLWFwcC82M2FjZWM4YzY3MDYyYTkzMzJjYTMzMjMvYmFiNTc4MDQ2NWM4MzdiMTdkMjEwM2FlODQyYmEwYmEvM19rY2cud2VicCIsImJpbyI6IkJpb2t1Iiwic3RhdHVzIjoiVGl0bGVrdSB1cGRhIiwiY29tcGFuaWVzIjpbXSwiY3JlYXRlZEF0IjoiMjAyMi0xMi0yOVQwMToyNTozMi4wODhaIiwidXBkYXRlZEF0IjoiMjAyMy0wMS0xOVQwNToxNjoxMC4zMzFaIiwiX192IjowfSwiaWF0IjoxNjc0MTA1MzcwLCJleHAiOjE2NzY2OTczNzB9.Ih9dPBkNf2Rsi7h4BwNA6QDUNdhn-7WdpMkETub0so0'</initValue>
+      <name>tokenApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>companyID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>teamID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>boardID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>listID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>cardID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>attachmentID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>commentID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Company API by Katalon'</initValue>
+      <name>companyName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Description Company API by Katalon'</initValue>
+      <name>companyDesc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Team API by Katalon'</initValue>
+      <name>teamName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Description Team API by Katalon'</initValue>
+      <name>teamDesc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'List API by Katalon'</initValue>
+      <name>listName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Card API by Katalon'</initValue>
+      <name>cardName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
